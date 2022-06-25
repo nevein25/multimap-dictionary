@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1622849544 source:c:\users\zquad\desktop\prefinal\main.c
+	<stdio.h>
+	<stdlib.h>
+	"tree.h"
+	"global.h"
+
+1622849209 c:\users\zquad\desktop\prefinal\tree.h
+	"global.h"
+
+1622835293 c:\users\zquad\desktop\prefinal\global.h
+
+1622849315 source:c:\users\zquad\desktop\prefinal\tree.c
+	<stdlib.h>
+	<stdio.h>
+	"tree.h"
+
